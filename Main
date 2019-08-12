@@ -17,7 +17,7 @@
 #include <cmath>
 using namespace std;
 
-#include "BigInt1.h"
+#include "BigInt.h"
 
 
 
