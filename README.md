@@ -89,15 +89,3 @@ Perform mathematical operations on big integers.
  is
  
  453,213,453
- 
- BONUS part:
- 
- The multiplication of
- 
- 453,213,345 * 892
- 
- is
- 
- 0,000,000,307,307,740
- 
- Add more integers (Y or N)? n
